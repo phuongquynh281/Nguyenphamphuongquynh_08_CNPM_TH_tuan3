@@ -1,0 +1,4 @@
+#Fri Aug 11 12:39:53 ICT 2023
+base.0=D\:\\Nam4\\hk3\\didong\\covid_19\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
